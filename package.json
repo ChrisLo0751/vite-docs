@@ -1,0 +1,17 @@
+{
+  "name": "vite-docs",
+  "version": "1.0.0",
+  "description": "vite docs",
+  "main": "index.js",
+  "author": "ljx",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-beta.3",
+    "vue": "^3.3.4"
+  },
+  "scripts": {
+  "docs:dev": "vitepress dev docs", 
+  "docs:build": "vitepress build docs", 
+  "docs:serve": "vitepress serve docs" 
+  }
+}
