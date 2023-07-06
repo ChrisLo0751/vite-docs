@@ -19,11 +19,5 @@ features:
   - icon: ⚡️
     title: ChatGpt
     details: 人工智能，未来已来
-  - icon: 🖖
-    title: 关于全栈
-    details: 全栈是假，全干是真
-  - icon: 🛠️
-    title: 云原生
-    details: 云上开花，即刻部署
 ---
 
