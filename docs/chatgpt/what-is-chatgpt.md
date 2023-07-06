@@ -1,4 +1,7 @@
+欢迎您阅读本篇文章，本文将为您提供关于如何ChatGPT的背景知识。ChatGPT是一个由OpenAI开发的强大的自然语言处理模型，它可以用于各种对话和文本生成任务。
 ## ChatGPT是什么?
+
+![what_is_chatgpt](./images/what_is_chatgpt.jpeg)
 
 ChatGPT 是一种基于 GPT（Generative Pre-trained Transformer）模型的聊天机器人。GPT 是由 OpenAI 开发的一种自然语言处理模型，它使用了深度学习技术，特别是变形金刚（Transformer）架构，来生成人类类似的文本。
 
@@ -9,6 +12,8 @@ ChatGPT 被广泛应用于各种领域，包括在线客服、虚拟助手、智
 OpenAI 不断改进和更新 GPT 模型，以提高 ChatGPT 的性能和效果。这意味着 ChatGPT 的功能和表现可能会随着时间的推移而改变和演进。
 
 ## ChatGPT能帮你做什么？
+
+![what_is_chatgpt](./images/what_is_chatgpt.png)
 
   1、  回答问题：ChatGPT 可以根据用户提出的问题或查询，提供相关信息和答案。
 
@@ -27,5 +32,3 @@ OpenAI 不断改进和更新 GPT 模型，以提高 ChatGPT 的性能和效果�
   8、翻译：它可以帮助进行简单的语言翻译任务。
 
   9、娱乐：ChatGPT 可以进行有趣的问答游戏、谜语等娱乐活动。
-
-## 你一定要使用ChatGPT吗？
