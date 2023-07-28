@@ -2,19 +2,11 @@
 
 欢迎您阅读本篇文章，本文将为您提供关于如何注册ChatGPT的详细指南。ChatGPT是一个由OpenAI开发的强大的自然语言处理模型，它可以用于各种对话和文本生成任务。
 
-## 目标
-本篇教程的目标是带你手把手完成ChatGPT免费账号的注册，免费账号可以使用ChatGPT3.5的模型，足够普通用户进行使用，您可以通过观看作者的视频或下方的图文素材对照参考。
-
-
-<iframe src="//player.bilibili.com/player.html?aid=614865787&bvid=BV1th4y137yh&cid=1164685105&page=1" 
-width="100%" height="520" v-resize="{ log: true }" frameborder="no" scrolling="no" seamless="" allowfullscreen="allowfullscreen"> </iframe>
-
-
 ## 准备工作
 
-1、邮箱：需要一个国外邮箱，用于账号注册时的邮箱验证。推荐使用 [ProtonMail](https://proton.me) 邮箱。
+1、邮箱：需要一个海外邮箱，用于账号注册时的邮箱验证。这里使用 [ProtonMail](https://proton.me) 邮箱。
 
-2、接码平台：注册 [SMS-Activate](https://sms-activate.org) 账号，并保证账号内有足够金额，用于接收ChatGPT发送的短信验证码。
+2、接码平台：注册 [SMS-Activate](https://sms-activate.org) 账号，用于接收短信验证码。
 
 
 
