@@ -2,10 +2,7 @@
 
 ## 目标
 
-本篇教程的目标是带你手把手完成升级ChatGPT4.0的升级，免费账号虽然可以使用ChatGPT3.5的模型，但是缺点是模型的训练时间停留在2021年，无法使用插件实时连网，对于有更高需求的用户，应升级ChatGPT4.0满足您的更高需求。您可以通过观看作者的视频或下方的图文素材对照参考。
-
-<iframe src="//player.bilibili.com/player.html?aid=614865787&bvid=BV1th4y137yh&cid=1164685105&page=1" 
-width="100%" height="520" v-resize="{ log: true }" frameborder="no" scrolling="no" seamless="" allowfullscreen="allowfullscreen"> </iframe>
+本篇教程的目标是带你手把手完成升级ChatGPT4.0的升级，免费账号虽然可以使用ChatGPT3.5的模型，但是缺点是模型的训练时间停留在2021年，无法使用插件实时连网，对于有更高需求的用户，应升级ChatGPT4.0满足您的更高需求。
 
 ## 前言
 

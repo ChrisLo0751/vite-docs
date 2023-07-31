@@ -1,12 +1,15 @@
 ---
 layout: home
 
+title: 沧浪之巅
+titleTemplate: 起始页
+
 hero:
-  name: 沧浪之巅
+  name: 锦衣
   text: 
-  tagline: 混前程是无解的题，荒愁的永动机
+  tagline: 关注最前沿的知识，旨为你提供帮助
   image:
-    src: logo.svg
+    src: /logo.svg
     alt: logo
   actions:
     - theme: brand
