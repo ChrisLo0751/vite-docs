@@ -1,7 +1,6 @@
 import { defineConfig } from 'vitepress';
 
 export default defineConfig({
-  base: "/vite-docs/",
   themeConfig: {
     logo: "/logo.svg",
     siteTitle: "沧浪之巅",
