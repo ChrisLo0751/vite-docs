@@ -2,11 +2,18 @@ import { defineConfig } from 'vitepress';
 
 export default defineConfig({
   themeConfig: {
-    logo: "/logo.svg",
-    siteTitle: "沧浪之巅",
+    logo: "/logo.webp",
+    siteTitle: "AIHUB",
     nav: [{
+      text: 'AI导航', 
+      link: 'https://aigchub100.com/'
+    },{
       text: 'ChatGPT', 
-      link: "/chatgpt/what-is-chatgpt"
+      items: [
+        { text: '什么是 ChatGpt', link: '/chatgpt/what-is-chatgpt' },
+        { text: '免费ChatGPT账号注册', link: '/chatgpt/register' },
+        { text: '升级ChatGPT Plus', link: '/chatgpt/plus' },
+      ],
     }],
     sidebar: {
       "/chatgpt/": [
