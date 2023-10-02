@@ -2,23 +2,22 @@
 
 ## 概述
 
-本篇教程的目标是带你手把手完成部署ChatGPT应用的教程，如果你本身已经拥有Openapi的密钥了，向通过部署一个chatgpt应用的方式来让你的朋友/家人/团队/员工使用到ChatGPT，那么部署一个ChatGPT应用就是您的不二选择。
+本篇教程的目标是带你手把手完成部署ChatGPT应用的教程，您将可以分享给您的家人或朋友共同使用，而无需每个人都要去注册账号，如果你已经升级了ChatGPT4.0，那就更好了，一个人升级全部人都可以使用ChatGPT4.0的模型
 
-如果您没有密钥或者不知道如何获取Openapi密钥，可以点击这篇文章学习如何注册ChatGPT账号和生成密钥
-
-我会带领大家手把手的体验一键部署拥有自己的ChatGPT应用，您无需去购买任何服务器，并且也需要懂得任何代码，也能轻松完成部署，即刻进行使用
+如果您没有密钥或者不知道如何获取OpenAI密钥，请参考[注册ChatGPT账号]([VitePress | VitePress (gpt-auto.com.cn)](https://doc.gpt-auto.com.cn/chatgpt/register.html))这篇文章
 
 ## 准备
 
-1、ChatGPT的开源项目：https://github.com/Yidadaa/ChatGPT-Next-Web.git
+本篇教程，您不需要购买任何服务器，只需要拥有两样东西，分别是：
 
-2、Openapi密钥
+1、OpenAI的密钥
+
+2、一个自己的域名 
 
 
 
 ## 体验地址
 
-这是我已经部署好的应用，大家可以直接进行使用
+这是我已经部署好的应用
 
-体验地址：https://chat-gpt-next-web-test-neon.vercel.app/#/new-chat
-
+体验地址：[ChatGPT Next Web (gpt-auto.com.cn)](http://chat.gpt-auto.com.cn/#/)
