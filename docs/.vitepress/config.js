@@ -1,6 +1,8 @@
 import { defineConfig } from 'vitepress';
 
 export default defineConfig({
+  head: [['meta', { name: 'ChatGPT', content: 'AI热门工具教程和分享，提示生产力' }]],
+  description: "AI热门工具教程和分享，提示生产力",
   themeConfig: {
     logo: "/logo.webp",
     siteTitle: "AIHUB",
