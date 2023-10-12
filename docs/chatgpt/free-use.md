@@ -10,15 +10,20 @@
 
 ## 使用
 
-白嫖免费，无需登录，无限制使用的ChatGPT，提高你的生产力
+标签含义
 
-1、[chatforai](https://chatforai.com)
+- 🆓完全免费，打开即用
+- 🔓有免费额度
+- 🔒需要登陆
+- 🔑需要输入 API Key
+- 💰需要充值
+- 💪支持 GPT4
+- 🌎需要国际网络
 
-2、[easygpt](https://site.easygpt.work)
-
-3、[space](https://xg8v02.aitianhu.space/#/chat/1002)
-
-4、[icoding](https://chat.icoding.ink)
-
-5、[chat](https://chat.gpt-auto.com.cn)
-
+| 免费ChatGPT                                          | 功能 |
+| ---------------------------------------------------- | ---- |
+| [chatforai](https://chatforai.com)                   | 🆓💪🌎  |
+| [easygpt](https://site.easygpt.work)                 | 🆓🌎   |
+| [space](https://xg8v02.aitianhu.space/#/chat/1002)   | 🆓🌎   |
+| [express](https://swgpz2.aitianhu.space/#/chat/1002) | 🆓🌎💪  |
+| [chat](https://chat.gpt-auto.com.cn)                 | 🆓💪🔒  |
