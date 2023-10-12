@@ -10,7 +10,7 @@
 
 ## 教程
 
-<iframe src="//player.bilibili.com/player.html?aid=491867153&bvid=BV1kN411t7k9&cid=1289135122&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="650" width="750"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=491867153&bvid=BV1kN411t7k9&cid=1289135122&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="388" width="100%"> </iframe>
 
 
 
