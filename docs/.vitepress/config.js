@@ -15,7 +15,8 @@ export default defineConfig({
         { text: '什么是 ChatGpt', link: '/chatgpt/what-is-chatgpt' },
         { text: '免费ChatGPT账号注册', link: '/chatgpt/register' },
         { text: '升级ChatGPT Plus', link: '/chatgpt/plus' },
-        { text: '部署专属的ChatGPT应用', link: '/chatgpt/deploy' },
+        { text: '一键部署ChatGPT应用', link: '/chatgpt/deploy' },
+		{ text: '免费ChatGPT应用', link: '/chatgpt/free-use' },
       ],
     }],
     sidebar: {
@@ -26,7 +27,8 @@ export default defineConfig({
             { text: '什么是 ChatGpt', link: '/chatgpt/what-is-chatgpt' },
             { text: '免费ChatGPT账号注册', link: '/chatgpt/register' },
             { text: '升级ChatGPT Plus', link: '/chatgpt/plus' },
-            { text: '部署专属的ChatGPT应用', link: '/chatgpt/deploy' },
+            { text: '一键部署ChatGPT应用', link: '/chatgpt/deploy' },
+			{ text: '免费ChatGPT应用', link: '/chatgpt/free-use' },
           ],
           collapsible: true
         }
