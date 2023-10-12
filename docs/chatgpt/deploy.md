@@ -6,6 +6,14 @@
 
 如果您没有密钥或者不知道如何获取OpenAI密钥，请参考[注册ChatGPT账号]([VitePress | VitePress (gpt-auto.com.cn)](https://doc.gpt-auto.com.cn/chatgpt/register.html))这篇文章
 
+
+
+## 教程
+
+<iframe src="//player.bilibili.com/player.html?aid=491867153&bvid=BV1kN411t7k9&cid=1289135122&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="650"> </iframe>
+
+
+
 ## 准备
 
 本篇教程，考虑到大多数用户是没有自己的服务器，所以我们会将ChatGPT应用部署在Vercel上，所以你此需要准备一下两样东西：
