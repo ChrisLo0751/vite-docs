@@ -22,7 +22,7 @@
 
 | 免费ChatGPT                                          | 功能 |
 | ---------------------------------------------------- | ---- |
-| [chatforai](https://chatforai.com)                   | 🆓💪🌎  |
+| [chatforai](https://chatforai.com)                   | 🔓🌎   |
 | [easygpt](https://site.easygpt.work)                 | 🆓🌎   |
 | [space](https://xg8v02.aitianhu.space/#/chat/1002)   | 🆓🌎   |
 | [express](https://swgpz2.aitianhu.space/#/chat/1002) | 🆓🌎💪  |
