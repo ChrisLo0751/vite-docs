@@ -1,11 +1,11 @@
 ---
 layout: home
 
-title: AIHUB | AI学习分享 | ChatGPT |
+title: 洛尔
 
 hero:
-  name: 下一个十年，你做好迎接AI浪潮的准备了吗？
-  tagline: 分享AI有趣的实践和教程
+  name: 洛尔的分享
+  tagline: 分享有趣的AI实践和编程教程
   image:
     src: /vite-people.webp
     alt: logo
@@ -14,8 +14,8 @@ hero:
       text: 关于
       link: /about/who-are-you
 features:
-  - icon: 🚀 
-    title: ChatGpt
+  - icon: 🚀
+    title: ChatGPT
     link: https://chat.openai.com
     details: 目前地表最强聊天机器人。
   - icon: ⚡️
