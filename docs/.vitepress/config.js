@@ -15,7 +15,8 @@ export default defineConfig({
       },
       {
         text: "Go编程",
-        link: "/go-debris/go"
+        // link: "/go-debris/goroutine/test",
+        items: [{ text: "高并发编程", link: "/go-debris/goroutine/g1" }]
       },
       {
         text: "前端开发",
@@ -35,12 +36,14 @@ export default defineConfig({
           ]
         }
       ],
-      "/go-debris/": [
+      "/go-debris/goroutine/": [
         {
           text: "教程",
           items: [
-            { text: "Go是什么", link: "/go-debris/go" },
-            { text: "并发编程", link: "/go-debris/goroutine" }
+            { text: "认识协程", link: "/go-debris/goroutine/g1" },
+            { text: "认识WaitGroup", link: "/go-debris/goroutine/g2" },
+            { text: "互斥锁", link: "/go-debris/goroutine/g3" },
+            { text: "读写锁", link: "/go-debris/goroutine/g4" }
           ]
         }
       ]
