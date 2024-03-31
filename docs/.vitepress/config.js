@@ -41,9 +41,10 @@ export default defineConfig({
           text: "教程",
           items: [
             { text: "认识协程", link: "/go-debris/goroutine/g1" },
-            { text: "认识WaitGroup", link: "/go-debris/goroutine/g2" },
+            { text: "管理协程的并发操作", link: "/go-debris/goroutine/g2" },
             { text: "互斥锁", link: "/go-debris/goroutine/g3" },
-            { text: "读写锁", link: "/go-debris/goroutine/g4" }
+            { text: "读写锁", link: "/go-debris/goroutine/g4" },
+            { text: "协程之间的通信", link: "/go-debris/goroutine/g5" }
           ]
         }
       ]
