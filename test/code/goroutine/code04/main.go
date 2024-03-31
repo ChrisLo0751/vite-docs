@@ -10,7 +10,7 @@ import (
 var quit = make(chan int)
 
 func loop() {
-	for i:=0; i< 100; i++	 {
+	for i := 0; i < 100; i++ {
 		runtime.Gosched()
 		fmt.Println(i)
 	}
@@ -23,7 +23,7 @@ func main() {
 	go loop()
 	go loop()
 
-	for i:=0; i<2; i++ {
+	for i := 0; i < 2; i++ {
 		<-quit
 	}
 }
