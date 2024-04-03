@@ -22,7 +22,7 @@ func main() {
 	go consumer(ch1)
 	wg.Wait()
 
-	fmt.Println("Hello chanel")
+	fmt.Println("Hello channel")
 }
 
 // 在主协程中，chanel ch1 是一个无缓冲的channel，所以在第 10 行代码中，向 ch1 中写入数据会阻塞，导致主协程无法继续执行，从而导致 panic。
