@@ -16,7 +16,10 @@ export default defineConfig({
       {
         text: "Go编程",
         // link: "/go-debris/goroutine/test",
-        items: [{ text: "高并发编程", link: "/go-debris/goroutine/g1" }]
+        items: [
+          { text: "高并发编程", link: "/go-debris/goroutine/g1" },
+          { text: "GORM", link: "/go-debris/grom/g1"},
+          { text: "RPC调用", link: "/go-debris/rpc/r1"}]
       },
       {
         text: "前端开发",
@@ -36,15 +39,20 @@ export default defineConfig({
           ]
         }
       ],
-      "/go-debris/goroutine/": [
+      "/go-debris/rpc/": [
         {
           text: "教程",
           items: [
-            { text: "认识协程", link: "/go-debris/goroutine/g1" },
-            { text: "管理协程的并发操作", link: "/go-debris/goroutine/g2" },
-            { text: "互斥锁", link: "/go-debris/goroutine/g3" },
-            { text: "读写锁", link: "/go-debris/goroutine/g4" },
-            { text: "协程之间的通信", link: "/go-debris/goroutine/g5" }
+            { text: "快速开始", link: "/go-debris/rpc/r1" },
+          ]
+        }
+      ],
+      "/go-debris/gorm/": [
+        {
+          text: "教程",
+          items: [
+            { text: "介绍", link: "/go-debris/gorm/g1" },
+            { text: "使用", link: "/go-debris/gorm/g2" }
           ]
         }
       ]
