@@ -4,6 +4,7 @@ import (
 	"log"
 	"net"
 	"net/rpc"
+	"net/rpc/jsonrpc"
 )
 
 // 参数
@@ -27,8 +28,9 @@ func main() {
 	if err != nil {
 		log.Fatal("Listen error:", err)
 	}
-	
+
 	for {
 		rpc.Accept(listener)
+		go jsonrpc.ServeConn(conn)
 	}
 }
