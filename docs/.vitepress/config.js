@@ -73,7 +73,9 @@ export default defineConfig({
       "/go-debris/rpc": [
         {
           text: "指南",
-          items: [{ text: "快速开始", link: "/go-debris/rpc/r1" }]
+          items: [{ text: "快速开始", link: "/go-debris/rpc/r1" },
+          { text: "序列化", link: "/go-debris/rpc/r2" },
+          { text: "网络协议", link: "/go-debris/rpc/r3" }]
         }
       ],
       "/go-debris/gorm": [
