@@ -16,6 +16,7 @@ func main() {
 	if err != nil {
 		log.Fatal("Dialing:", err)
 	}
+	defer client.Close()
 
 	// 远程调用
 	var reply string

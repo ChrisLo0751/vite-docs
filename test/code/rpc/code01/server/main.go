@@ -27,6 +27,7 @@ func main() {
 	if err != nil {
 		log.Fatal("Listen error:", err)
 	}
+	defer listener.Close()
 	
 	for {
 		rpc.Accept(listener)

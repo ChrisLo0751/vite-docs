@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"log"
 	"net"
 	"net/rpc"
@@ -28,9 +29,14 @@ func main() {
 	if err != nil {
 		log.Fatal("Listen error:", err)
 	}
+	defer listener.Close()
 
 	for {
-		rpc.Accept(listener)
+		conn, err := listener.Accept()
+		if err != nil {
+			fmt.Println("Error accepting:", err)
+			continue
+		}
 		go jsonrpc.ServeConn(conn)
 	}
 }

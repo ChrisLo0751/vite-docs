@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"log"
-	"net/rpc"
+	"net/rpc/jsonrpc"
 )
 
 type Args struct {
@@ -12,10 +12,11 @@ type Args struct {
 }
 
 func main() {
-	client, err := rpc.Dial("tcp", "127.0.0.1:1234")
+	client, err := jsonrpc.Dial("tcp", "127.0.0.1:1234")
 	if err != nil {
 		log.Fatal("Dialing:", err)
 	}
+	defer client.Close()
 
 	// 远程调用
 	var reply string
